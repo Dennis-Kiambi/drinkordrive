@@ -4,6 +4,7 @@
   "description": "Pre-prep project.A webbsite to hire RVs and learn how to make cocktails",
   "main": "index.js",
   "scripts": {
+    "deploy": "node --version",
     "test": "test"
   },
   "repository": {
@@ -19,5 +20,5 @@
   "bugs": {
     "url": "https://github.com/Dennis-Kiambi/drinkordrive/issues"
   },
-  "homepage": "https://github.com/Dennis-Kiambi/drinkordrive#readme"
+  "homepage": "https://github.com/Dennis-Kiambi/drinkordrive#index.html"
 }
