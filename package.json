@@ -1,0 +1,23 @@
+{
+  "name": "drink-or-drive",
+  "version": "1.0.0",
+  "description": "Pre-prep project.A webbsite to hire RVs and learn how to make cocktails",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dennis-Kiambi/drinkordrive.git"
+  },
+  "keywords": [
+    "Recreational",
+    "vehicles"
+  ],
+  "author": "Dennis Kiambi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dennis-Kiambi/drinkordrive/issues"
+  },
+  "homepage": "https://github.com/Dennis-Kiambi/drinkordrive#readme"
+}
